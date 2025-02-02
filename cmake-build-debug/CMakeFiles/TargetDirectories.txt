@@ -1,0 +1,3 @@
+/Users/jakubtaglewski/Desktop/255713_Jakub_Taglewski_GIT/cmake-build-debug/CMakeFiles/255713_Jakub_Taglewski_GIT.dir
+/Users/jakubtaglewski/Desktop/255713_Jakub_Taglewski_GIT/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jakubtaglewski/Desktop/255713_Jakub_Taglewski_GIT/cmake-build-debug/CMakeFiles/rebuild_cache.dir

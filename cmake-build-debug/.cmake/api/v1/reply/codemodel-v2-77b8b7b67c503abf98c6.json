@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.30"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "255713_Jakub_Taglewski_GIT",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "255713_Jakub_Taglewski_GIT::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-255713_Jakub_Taglewski_GIT-Debug-ff10a72cf2b02edfb028.json",
+					"name" : "255713_Jakub_Taglewski_GIT",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/jakubtaglewski/Desktop/255713_Jakub_Taglewski_GIT/cmake-build-debug",
+		"source" : "/Users/jakubtaglewski/Desktop/255713_Jakub_Taglewski_GIT"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
